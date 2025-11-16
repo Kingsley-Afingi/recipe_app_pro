@@ -92,14 +92,6 @@ export async function GET(req: NextRequest) {
 
 
 
-
-
-
-
-
-
-
-
 // import { NextResponse } from "next/server";
 // import { createClient } from "@supabase/supabase-js";
 

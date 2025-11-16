@@ -88,8 +88,8 @@ const Register = () => {
     )} */}
     
     <p className="text-white">
-        Already have Account ? {""}
-        <Link href="/login" className="font-bold">Login</Link>
+        Already have Account ?  {""}
+        <Link href="/login" className="underline tex-white"> Login</Link>
     </p>
     </form>
   )
