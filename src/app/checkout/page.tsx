@@ -121,7 +121,7 @@ export default function CheckoutPage() {
         {/* PLACE ORDER */}
         <button
           onClick={payWithPaystack}
-          className="w-full bg-green-600 text-white py-2 rounded hover:bg-green-800 transition"
+          className="w-full bg-green-600 text-white py-2 rounded hover:bg-green-700 transition"
         >
           Place Order
         </button>
